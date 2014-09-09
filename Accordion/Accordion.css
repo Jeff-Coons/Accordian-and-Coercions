@@ -1,0 +1,47 @@
+section{
+  max-width: 400px;
+  margin: 100px auto;
+}
+
+h2 {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 36px;
+  color: #A3B3BE;
+  text-shadow: #203647 -0.5px -1px;;
+
+  margin: 0;
+  padding: 10px 5px 10px 20px;
+
+  background-image: linear-gradient(to bottom, #1C5B88, #0B3450);
+  background-image: -webkit-linear-gradient(to bottom, #1C5B88, #0B3450);
+  background-color: #0B3450;
+
+  border-bottom: solid 1px #203647;
+}
+
+p {
+  font-family: Raleway;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 150%;
+  color: #203647;
+
+  height: 123px;
+  margin: 0;
+  padding: 20px;
+
+  background-color: #f3f3f3;
+}
+
+div {
+  height: 63px;
+  overflow: hidden;
+
+}
+
+.section {
+    height: 226px;
+    transition: all ease-in 1s;
+    -webkit-transition: all ease-in 1s;
+}
